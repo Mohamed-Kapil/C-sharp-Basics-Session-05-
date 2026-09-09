@@ -7,12 +7,17 @@
             #region 1 question
 
             Book book = new Book();
-     
-            Console.WriteLine(book.password);
+
+            //Console.WriteLine(book.password);
 
             #endregion
 
             #region 2 question
+
+            Book book2 = new Book();
+
+            Console.WriteLine(book2.copiesInStock);
+
             #endregion
 
             #region 3 question
