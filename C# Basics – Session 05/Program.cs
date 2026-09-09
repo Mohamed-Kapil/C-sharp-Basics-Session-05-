@@ -21,6 +21,13 @@
             #endregion
 
             #region 3 question
+
+            Book book3 = new Book();
+
+            book3.Title = "Clean Code";
+
+            Console.WriteLine(book3.Title);
+
             #endregion
 
             #region 4 question
