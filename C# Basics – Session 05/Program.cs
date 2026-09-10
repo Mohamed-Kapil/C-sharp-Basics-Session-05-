@@ -49,6 +49,13 @@
             #endregion
 
             #region 6 question
+
+            int genreNumber = 1;
+
+            Genre genre = (Genre)genreNumber;
+
+            Console.WriteLine(genre);
+
             #endregion
 
             #region 7 question
