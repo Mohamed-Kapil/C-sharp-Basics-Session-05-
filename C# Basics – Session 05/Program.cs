@@ -31,6 +31,13 @@
             #endregion
 
             #region 4 question
+
+            Book book4 = new Book();
+
+            book4.Genre = Genre.Science;
+
+            Console.WriteLine(book4.Genre);
+
             #endregion
 
             #region 5 question

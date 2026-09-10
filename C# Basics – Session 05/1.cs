@@ -11,5 +11,16 @@ namespace C__Basics___Session_05
         internal int copiesInStock = 5;
 
         public string Title;
+
+        public Genre Genre { get; set; }
+
+    }
+
+    enum Genre
+    {
+        Fiction,
+        NonFiction,
+        Science
     }
 }
+
