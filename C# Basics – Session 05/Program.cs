@@ -59,6 +59,13 @@
             #endregion
 
             #region 7 question
+
+            Genre genre2 = Genre.Fiction;
+
+            string genreText = genre2.ToString();
+
+            Console.WriteLine(genreText);
+
             #endregion
 
             #region 8 question
