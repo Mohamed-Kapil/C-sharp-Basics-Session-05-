@@ -69,6 +69,13 @@
             #endregion
 
             #region 8 question
+
+            string genreText2 = "Science";
+
+            Genre genre3 = Enum.Parse<Genre>(genreText2);
+
+            Console.WriteLine(genre3);
+
             #endregion
 
             #region 9 question
