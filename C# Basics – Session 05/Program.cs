@@ -41,6 +41,11 @@
             #endregion
 
             #region 5 question
+
+            Console.WriteLine((int)Genre.Fiction);
+            Console.WriteLine((int)Genre.NonFiction);
+            Console.WriteLine((int)Genre.Science);
+
             #endregion
 
             #region 6 question
